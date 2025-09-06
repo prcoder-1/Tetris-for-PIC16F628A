@@ -1,7 +1,7 @@
 # Tetris-for-PIC16F628A
 Tetris for PIC16F628A microcontroller
 
-Tetris source code: **[Tetris source code](tetris.asm)**
+Tetris source code: **[Source code](tetris.asm)**
 HEX file for firmware burning: **[HEX-file](tetris.hex)**
 
 This is a Tetris for the PIC16F628A microcontroller using only two resistors as a DAC for image output and four buttons for control.
